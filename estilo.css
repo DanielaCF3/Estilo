@@ -1,0 +1,23 @@
+h1{
+    color:aqua;
+    background-color: black;
+    font: weight 700xp;
+    font-family: cursive;
+    font-size: 50xp;
+}
+.color{
+    color:white;
+}
+h2{
+    color:white;
+    text-align: center ;
+    font-style: italic;
+    background-color: blueviolet;
+}
+h3{
+    color: black;
+    text-decoration: underline;
+    background-color: skyblue;
+    text-align: right;
+
+}
